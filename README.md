@@ -10,5 +10,8 @@ The main function defines the Streamlit user interface. It displays a text input
 
 
 Preview:
-![image](https://user-images.githubusercontent.com/67355055/229363150-417db603-8bcf-480f-90ee-19f47fc701d7.png)
-![image](https://user-images.githubusercontent.com/67355055/229363185-bda01dc6-345f-4172-938d-84c86e25ef16.png)
+
+![image](https://user-images.githubusercontent.com/67355055/229363301-a09746da-b165-46c8-9c5c-648b4b11f2b7.png)
+![image](https://user-images.githubusercontent.com/67355055/229363335-b206518f-4141-45f7-adaa-ec8007683c01.png)
+![image](https://user-images.githubusercontent.com/67355055/229363357-0bed82a2-a85a-4ed3-a13b-5f92c949b9a2.png)
+
